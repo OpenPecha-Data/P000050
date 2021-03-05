@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000050
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༔ ༔རྡོར་སེམས་ཐུགས་ཀྱི་སྒྲུབ་པ་ལས༔ ཟབ་གཏེར་ཁ་བྱང་བཞུགས་སོ༔ ༔
   authors:
   - མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེའམ་གཏེར་བདག་གླིང་པ་དང་ལོ་ཆེན་དྷརྨ་ཤྲཱིའམ་ངག་དབང་ཆོས་དཔལ་རྒྱ་མཚོ།
-  sku: SHE-RTD-10
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-RTD-10
 web_metadata:
   title:
     en: The Heart Accomplishment of Vajrasattva According to the Tradition of Mindroling
